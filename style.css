@@ -1,0 +1,8 @@
+.img1 {
+    max-width: 1500px;   /* Máximo da largura da imagem */
+    width: 100%;
+    max-height: 800px;  /* Máximo da altura da imagem */
+    min-height: auto;      /* Mínimo da altura, por padrão “auto” */
+    background-size:100%;
+    background-repeat: no-repeat
+}
